@@ -1,0 +1,26 @@
+body {
+  background: linear-gradient(135deg,#ffffff,#5ca3ae);
+  min-height: 100vh;
+
+}
+.btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.4);
+}
+
+.btn-success {
+  background: linear-gradient(135deg,#22c55e,#16a34a);
+  border: none;
+}
+.btn-primary {
+  background: linear-gradient(135deg,#387ff1,#6c7b9b);
+  border: none;
+}
+.btn-info {
+  background: linear-gradient(135deg,#0edbff,#f1faff);
+  border: none;
+}
+.btn-danger {
+  background: linear-gradient(135deg,#ff1414,#a97d7d);
+  border: none;
+}
