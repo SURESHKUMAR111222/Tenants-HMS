@@ -1,6 +1,5 @@
-**Tenants-HMS - Tenant Management System**
-           A simple and efficient Tenant Management System (HMS) built to help landlords and property managers track tenants 
-   This project provides an easy-to-use interface for managing tenant details, payments and  information
+**Tenant Hostel Management System**
+The Tenant Hostel Management System is a basic CRUD-based web application designed to manage hostel tenants efficiently. It allows hostel administrators to Create, Read, Update, and Delete tenant records in a simple and organized way
 
 **Features**
   Add new records to the system
