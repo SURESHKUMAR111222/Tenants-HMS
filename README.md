@@ -6,9 +6,8 @@ The Tenant Hostel Management System is a basic CRUD-based web application design
   View all saved records
   Edit existing records
   Delete records
-  Simple and easy-to-understand code structure
-  Beginner-friendly project 
-
+  Simple and easy to understand code structure
+  
 **Technologies Used**
  Frontend : react
  Backend :  Java 
